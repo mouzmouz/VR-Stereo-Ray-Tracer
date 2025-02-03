@@ -21,3 +21,4 @@ This project implements a stereoscopic ray tracer using the Rayground platform. 
 
 ## Language Used
 This project is written in **GLSL (OpenGL Shading Language)**, used for ray tracing and rendering shaders.
+![Project Preview](stereoscopic_with_barrel.jpg)
