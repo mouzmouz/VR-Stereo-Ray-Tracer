@@ -3,6 +3,8 @@
 ## Overview
 This project implements a stereoscopic ray tracer using the Rayground platform. It generates stereoscopic images by rendering the scene from two slightly offset cameras, simulating human vision. Barrel distortion is applied to the final output for VR compatibility.
 
+![Project Preview](stereoscopic_with_barrel.jpg)
+
 ## Features
 - **Stereoscopic Rendering**:
   - Two cameras with horizontal offsets simulate binocular vision.
@@ -21,4 +23,4 @@ This project implements a stereoscopic ray tracer using the Rayground platform. 
 
 ## Language Used
 This project is written in **GLSL (OpenGL Shading Language)**, used for ray tracing and rendering shaders.
-![Project Preview](stereoscopic_with_barrel.jpg)
+
